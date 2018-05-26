@@ -42,7 +42,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "NS TEAM",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -1318,7 +1318,7 @@
     "page1.html": {
       "settings": {
         "meta_descr": "Web Generator Description",
-        "title": "Counter Strike",
+        "title": "Counter Strike form",
         "order": 2
       },
       "components": [
@@ -1874,7 +1874,7 @@
     "page2.html": {
       "settings": {
         "meta_descr": "Website Creator Description",
-        "title": "EFT",
+        "title": "Escape From Tarkov form",
         "order": 1
       },
       "components": [
