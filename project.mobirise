@@ -321,12 +321,12 @@
           "_once": false,
           "_params": {
             "slides__autoplay": true,
-            "slides__autoplayInterval": 4000,
+            "slides__autoplayInterval": "5000",
             "slides__showBullets": false,
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/58if-egnyg0-2000x1102.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": false,
                 "showTitle": true,
@@ -360,7 +360,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/2018-05-2318-52-867.1-41.2-1.7-0.0-0.6-0.0-0.8-1920x1080.png",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": false,
                 "showTitle": true,
