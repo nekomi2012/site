@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1078,7 +1078,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Введите заголовок здесь",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Анимированный",
@@ -1105,6 +1105,32 @@
                 "customStyle1": "display-7",
                 "caption": "Введите заголовок здесь",
                 "active": false
+              },
+              {
+                "tags": "Escape from Tarkov",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/2018-05-2702-21-685.4-58.0-500.3-0.0-1.0-0.1-0.2-1920x1080.png",
+                "thumb": "@PROJECT_PATH@/assets/images/2018-05-2702-21-685.4-58.0-500.3-0.0-1.0-0.1-0.2-1920x1080-800x450.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Введите заголовок здесь",
+                "active": false
+              },
+              {
+                "tags": "Escape from Tarkov",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/2018-05-2702-38-287.8-0.6-87.6-0.1-0.6-0.0-0.8-1920x1080.png",
+                "thumb": "@PROJECT_PATH@/assets/images/2018-05-2702-38-287.8-0.6-87.6-0.1-0.6-0.0-0.8-1920x1080-800x450.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Введите заголовок здесь",
+                "active": true
               }
             ]
           }
